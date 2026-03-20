@@ -1,5 +1,4 @@
 import React from "react";
-import "./ProductCard.css";
 
 const ProductCard = ({ title, price, description, image, rating, reviews, children }) => {
   // Task 4: Destructuring already done in function parameters above
